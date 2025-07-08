@@ -42,6 +42,9 @@ Deployment 🚀
   - Deployed on Render and connected with MongoDB Atlas for scalable database management.
   - Access the Live Application here : https://project-neonvibe-0pr8.onrender.com/
 
+**Author:** Your Name
+
+
 
 
 
