@@ -36,7 +36,11 @@ NeonVibe is a vibrant Full Stack Web Development Project designed to empower pro
    - MVC Architecture 🏗️ 
    - EJS Templates 🎨 
    - Cookies and Sessions  🍪
-   - Fast & responsive visuals ⚡ 
+   - Fast & responsive visuals ⚡
+
+Deployment 🚀
+  - Deployed on Render and connected with MongoDB Atlas for scalable database management.
+  - Access the Live Application here : https://project-neonvibe-0pr8.onrender.com/
 
 
 
