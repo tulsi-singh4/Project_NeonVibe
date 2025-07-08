@@ -14,22 +14,22 @@ NeonVibe is a vibrant Full Stack Web Development Project designed to empower pro
    - Ensures user data protection and account integrity.
    
 - Image Handling & Storage 🌟
-  -Cloudinary for blazing-fast, scalable image uploads
-  -Multer middleware to receive and parse multipart/form-data
-  -Automatic transformations: resizing, thumbnails, optimization
+   - Cloudinary for blazing-fast, scalable image uploads
+  - Multer middleware to receive and parse multipart/form-data
+  - Automatic transformations: resizing, thumbnails, optimization
 
 - Cloudinary Image Storage ☁️
-   -Image Hosting: All listing images are securely stored on Cloudinary, providing reliable and efficient image hosting.
-   -This ensures that images are easily accessible, optimized for performance, and enhance the overall user experience.
+   - Image Hosting: All listing images are securely stored on Cloudinary, providing reliable and efficient image hosting.
+   - This ensures that images are easily accessible, optimized for performance, and enhance the overall user experience.
 
 - Security & Data Integrity 🔐
-  -Input validation and sanitization for all forms
-  -Rate limiting on authentication routes
-  -HTTPS enforced for secure data transmission
+  - Input validation and sanitization for all forms
+  - Rate limiting on authentication routes
+  - HTTPS enforced for secure data transmission
 
 - Multer 💾
-  -Parses incoming form-data ie. uploads
-  -Integrates seamlessly with Cloudinary workflows
+  - Parses incoming form-data ie. uploads
+  - Integrates seamlessly with Cloudinary workflows
 
 - Additional Features 🌟
    - User Reviews and Ratings 🏷️
