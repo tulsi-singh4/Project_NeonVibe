@@ -4,16 +4,15 @@ NeonVibe is a vibrant Full Stack Web Development Project designed to empower pro
 
 🚀 Key Project Features & Technologies
 - Tech Stack 📱
-   - Frontend: Modern JavaScript frameworks (React, Vue or similar)
-   - Backend: Node.js with Express for RESTful APIs
-   - Database: MongoDB based storage for robust data handling
-
+   - Frontend: HTML, CSS, Javascript, Bootstrap, EJS
+   - Backend: Node.js, Express.js
+   - Database Management system: MongoDB Atlas
 - Secure Login & Signup 🔐
    - Password hashing 
    - It features secure signup and login flows.
    - Ensures user data protection and account integrity.
    
-- Image Handling & Storage 🌟
+- Image Handling & Storage 📸 
    - Cloudinary for blazing-fast, scalable image uploads
   - Multer middleware to receive and parse multipart/form-data
   - Automatic transformations: resizing, thumbnails, optimization
@@ -31,7 +30,8 @@ NeonVibe is a vibrant Full Stack Web Development Project designed to empower pro
   - Parses incoming form-data ie. uploads
   - Integrates seamlessly with Cloudinary workflows
 
-- Additional Features 🌟
+- Additional Features 🌐
+   - RESTful API 🧩 
    - User Reviews and Ratings 🏷️
    - MVC Architecture 🏗️ 
    - EJS Templates 🎨 
