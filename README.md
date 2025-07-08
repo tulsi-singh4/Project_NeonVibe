@@ -1,4 +1,4 @@
- 🌈 ## Project    NeonVibe
+ ## 🌈 Project    NeonVibe
 
 NeonVibe is a vibrant Full Stack Web Development Project designed to empower property hosts to effortlessly list their vacation accommodations🏡  manage bookings, and present a visually captivating rental experience. Enables hosts to showcase their properties as unique vacation getaways while offering guests a seamless booking journey. Whether you have a villa, apartment, or a charming cottage, NeonVibe transforms your space into a memorable stay. Guests can experience secure hassle-free authentication, effortlessly explore vibrant listings, smooth image uploads. It ensures a trustworthy rental experience for all.
 
