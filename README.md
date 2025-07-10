@@ -2,6 +2,9 @@
 
 NeonVibe is a vibrant Full Stack Web Development Project designed to facilitate property hosts to list their vacation accommodations🏡  manage bookings, and present a visually captivating rental experience. Whether you have a villa, apartment, or a charming cottage, NeonVibe transforms your space into a memorable stay. Users can experience secure hassle-free authentication and effortlessly explore the curated stays.  It ensures a trustworthy rental experience for all.
 
+![Alt text](https://github.com/username/repo/assets/1234/imani.png)
+
+
 🚀**Key Project Features & Technologies**
 - Tech Stack 📱
    - Frontend: HTML, CSS, Javascript, Bootstrap, EJS
