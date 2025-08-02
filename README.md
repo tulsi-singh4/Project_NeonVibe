@@ -1,7 +1,5 @@
  ## 🌈 Project    NeonVibe
 
- <img width="1896" height="874" alt="Image" src="https://github.com/user-attachments/assets/0235c443-caa2-44a5-80f3-e30ec100efd5" />
-
 NeonVibe is a vibrant Full Stack Web Development Project designed to facilitate property hosts to list their vacation accommodations🏡  manage bookings, and present a visually captivating rental experience. Whether you have a villa, apartment, or a charming cottage, NeonVibe transforms your space into a memorable stay. Users can experience secure hassle-free authentication and effortlessly explore the curated stays.  It ensures a trustworthy rental experience for all.
 
 🚀**Key Project Features & Technologies**
@@ -43,6 +41,21 @@ NeonVibe is a vibrant Full Stack Web Development Project designed to facilitate 
 **Deployment** 🚀
   - Deployed on Render and connected with MongoDB Atlas for scalable database management.
   - Access the Live Application here : https://project-neonvibe-0pr8.onrender.com/
+
+**Screenshots of Website**
+
+1. HOMEPAGE
+  <img width="1896" height="874" alt="Image" src="https://github.com/user-attachments/assets/0235c443-caa2-44a5-80f3-e30ec100efd5" />
+  
+2. SIGN UP PAGE
+  <img width="1920" height="876" alt="Image" src="https://github.com/user-attachments/assets/170e80bd-07ef-4070-9f41-620ffaf4b1cc" />
+ 
+4. PARTICULAR LISTING PAGE LOOKS LIKE THIS
+   <img width="1876" height="873" alt="Image" src="https://github.com/user-attachments/assets/01160c00-25fe-43fb-89f6-ae21a0288e9f" />
+ 
+6. LEAVE A REVIEW BELOW ANY LISTING
+   <img width="1898" height="856" alt="Image" src="https://github.com/user-attachments/assets/92c20747-466c-4fcd-b815-0e66ba8fbf05" />
+
 
 **Author:** @tulsi-singh4
 - Reflects expertise in crafting engaging Front‑end experiences, maintaining Back‑end logic, and seamless database management.
