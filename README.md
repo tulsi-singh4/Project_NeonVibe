@@ -31,7 +31,7 @@ NeonVibe is a vibrant Full Stack Web Development Project designed to facilitate 
   - Integrates seamlessly with Cloudinary workflows
 
 - Additional Features 🌐
-   - RESTful API 🧩 
+   - RESTful APIs 🧩 
    - User Reviews and Ratings 🏷️
    - MVC Architecture 🏗️ 
    - EJS Templates 🎨 
