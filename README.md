@@ -1,6 +1,8 @@
  ## 🌈 Project    NeonVibe
 
 NeonVibe is a vibrant Full Stack Web Development Project designed to facilitate property hosts to list their vacation accommodations🏡  manage bookings, and present a visually captivating rental experience. Whether you have a villa, apartment, or a charming cottage, NeonVibe transforms your space into a memorable stay. Users can experience secure hassle-free authentication and effortlessly explore the curated stays.  It ensures a trustworthy rental experience for all.
+-  It allows users to explore and filter through a wide range of properties, enjoy secure login and signup flows, dynamically updated listings and benefit from reliable image uploads via Cloudinary.
+-  Host and guest interactions are protected with industry-standard security measures, and all data is stored and managed through MongoDB Atlas. 
 
 🚀**Key Project Features & Technologies**
 - Tech Stack 📱
@@ -60,8 +62,7 @@ NeonVibe is a vibrant Full Stack Web Development Project designed to facilitate 
 
 **Author:** @tulsi-singh4
 - Reflects expertise in crafting engaging Front‑end experiences, maintaining Back‑end logic, and seamless database management.
--  It allows users to explore and filter through a wide range of properties, enjoy secure login and signup flows, dynamically updated listings and benefit from reliable image uploads via Cloudinary.
--  Host and guest interactions are protected with industry-standard security measures, and all data is stored and managed through MongoDB Atlas. 
+
 
 
 
