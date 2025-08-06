@@ -60,7 +60,7 @@ NeonVibe is a vibrant Full Stack Web Development Project designed to facilitate 
    <img width="1898" height="856" alt="Image" src="https://github.com/user-attachments/assets/92c20747-466c-4fcd-b815-0e66ba8fbf05" />
 
 
-**Author:** @tulsi-singh4
+**Developed by :** [Tulsi Singh](https://github.com/tulsi-singh4)
 - Reflects expertise in crafting engaging Front‑end experiences, maintaining Back‑end logic, and seamless database management.
 
 
